@@ -26,6 +26,10 @@ Bye bye!
 
 F3!
 
+## This if from f4
+
+F4!
+
 ## This if from f5
 
 F5!
